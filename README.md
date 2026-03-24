@@ -1,6 +1,7 @@
 # 📚 ChaekMate - 온라인 도서 쇼핑몰
 
-> 🔗 [NHN 아카데미 Java Backend 7기 팀 프로젝트](https://github.com/nhnacademy-be11-1) | 2025.10.15 ~ 2025.12.05 (8주)  
+> 2025.10.15 ~ 2025.12.05 <br>
+> 🔗 [NHN 아카데미 Java Backend 7기 팀 프로젝트](https://github.com/nhnacademy-be11-1)
 
 Spring Cloud 기반 MSA 구조로 설계한 온라인 도서 쇼핑몰입니다.  
 분산 인증(JWT/Redis), Spring AI(Gemini) 벡터 검색, RabbitMQ 비동기 처리, ELK 로그 중앙화를 적용했습니다.
