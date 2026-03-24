@@ -22,9 +22,18 @@ Spring Cloud 기반 MSA 구조로 설계한 온라인 도서 쇼핑몰입니다.
 
 ## 🛠️ 기술 스택
 
-`Java 21` `Spring Boot 3.5.6` `Spring Cloud 2025.0.0`  
-`MySQL 8.0` `Redis 6.0` `Elasticsearch 8.x` `RabbitMQ 3.x`  
-`Docker` `GitHub Actions` `ELK Stack` `Spring AI (Gemini)`
+**언어 & 빌드**  
+`Java 21` `Maven`
+
+**프레임워크**  
+`Spring Boot` `Spring Cloud` `Spring Data JPA` `QueryDSL`
+
+**데이터베이스 & 인프라**  
+`MySQL` `Redis` `Elasticsearch` `RabbitMQ`  
+`Docker` `GitHub Actions` `ELK Stack`
+
+**테스트**  
+`JUnit5` `AssertJ` `Mockito` `SonarQube`
 
 ---
 
