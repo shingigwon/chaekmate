@@ -10,13 +10,13 @@ Spring Cloud 기반 MSA 구조로 설계한 온라인 도서 쇼핑몰입니다.
 
 ## 🏗️ 아키텍처
 
-![architecture](<img width="1601" height="781" alt="image" src="https://github.com/user-attachments/assets/2db4e84e-12c3-4a3d-8143-b34f1fdf1faf" />)
+![architecture](https://github.com/user-attachments/assets/2db4e84e-12c3-4a3d-8143-b34f1fdf1faf)
 
 ---
 
 ## 📊 ERD
 
-![erd](<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/3f9bf5f4-9d8e-4383-b2b8-78151d328356" />)
+![erd](https://github.com/user-attachments/assets/3f9bf5f4-9d8e-4383-b2b8-78151d328356)
 
 ---
 
