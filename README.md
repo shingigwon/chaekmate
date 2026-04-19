@@ -92,5 +92,5 @@ Spring Cloud 기반 유사 MSA 구조로 설계한 온라인 도서 쇼핑몰입
 | [chaekmate-search](https://github.com/nhnacademy-be11-1/chaekmate-search) | 검색 서비스 |
 | [chaekmate-batch](https://github.com/nhnacademy-be11-1/chaekmate-batch) | 배치 처리 |
 | [chaekmate-eureka](https://github.com/nhnacademy-be11-1/chaekmate-eureka) | 서비스 디스커버리 |
-| [chaekmate-config](https://github.com/nhnacademy-be11-1/chaekmate-config) | Config 서버 |
+| [chaekmate-config](https://github.com/nhnacademy-be11-1/chaekmate-config/tree/develop) | Config 서버 |
 | [chaekmate-logging-starter](https://github.com/nhnacademy-be11-1/chaekmate-logging-starter) | 공통 로그 설정 |
