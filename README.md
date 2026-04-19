@@ -84,11 +84,11 @@ Spring Cloud 기반 유사 MSA 구조로 설계한 온라인 도서 쇼핑몰입
 
 | 레포 | 설명 |
 |---|---|
-| [chaekmate-front](https://github.com/nhnacademy-be11-1/chaekmate-front) | 프론트엔드 서버 |
-| [chaekmate-gateway](https://github.com/nhnacademy-be11-1/chaekmate-gateway) | API Gateway |
+| [chaekmate-front](https://github.com/nhnacademy-be11-1/chaekmate-front/tree/develop) | 프론트엔드 서버 |
+| [chaekmate-gateway](https://github.com/nhnacademy-be11-1/chaekmate-gateway/tree/develop) | API Gateway |
 | [chaekmate-auth](https://github.com/nhnacademy-be11-1/chaekmate-auth) | 인증 서버 |
-| [chaekmate-core](https://github.com/nhnacademy-be11-1/chaekmate-core) | 핵심 도메인 서비스 |
-| [chaekmate-coupon](https://github.com/nhnacademy-be11-1/chaekmate-coupon) | 쿠폰 서비스 |
+| [chaekmate-core](https://github.com/nhnacademy-be11-1/chaekmate-core/tree/develop) | 핵심 도메인 서비스 |
+| [chaekmate-coupon](https://github.com/nhnacademy-be11-1/chaekmate-coupon/tree/develop) | 쿠폰 서비스 |
 | [chaekmate-search](https://github.com/nhnacademy-be11-1/chaekmate-search) | 검색 서비스 |
 | [chaekmate-batch](https://github.com/nhnacademy-be11-1/chaekmate-batch) | 배치 처리 |
 | [chaekmate-eureka](https://github.com/nhnacademy-be11-1/chaekmate-eureka) | 서비스 디스커버리 |
